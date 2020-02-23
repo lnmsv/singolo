@@ -1,0 +1,14 @@
+body {
+    width: 1020px;
+    margin: 0 auto;
+}
+.header {
+    /* hey dude^ what`s wrong? */
+}
+.header__navigation {
+    display: flex;
+    list-style: none;
+}
+.navigation {
+    display: flex;
+}
